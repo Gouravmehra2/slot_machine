@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+    color: white;
+    font-weight: 400;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px; 
+    
+}
+.b{
+    margin-top:10px;
+    border-style: dashed;
+    margin-left:500px;
+    margin-right:500px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
